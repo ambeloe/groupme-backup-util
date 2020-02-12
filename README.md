@@ -7,7 +7,11 @@ to get your token, go to https://dev.groupme.com/applications and click the butt
 
 # usage
 -t the groupme access token (required)
+
 -a download from all sources
+
 -l lists all groups and dms it can find
+
 -g specify a group to download from
+
 -c specify a chat(dm) to download from
